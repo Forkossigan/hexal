@@ -639,7 +639,8 @@ a {
     height: 76px;
 
 }
-.badge {
+
+.badge1 {
     display: inline;
     margin: -2px;
     padding: 0px;
@@ -649,6 +650,67 @@ a {
     top: -400px;
     left: 755px;
     color: #000c;
+    -webkit-filter: hue-rotate(200deg);
+}
+.badge2 {
+    display: inline;
+    margin: -2px;
+    padding: 0px;
+    width: 24px;
+    height: 24px;
+    position: relative;
+    top: -400px;
+    left: 755px;
+    color: #000c;
+    -webkit-filter: hue-rotate(200deg);
+}
+.badge3 {
+    display: inline;
+    margin: -2px;
+    padding: 0px;
+    width: 24px;
+    height: 24px;
+    position: relative;
+    top: -400px;
+    left: 755px;
+    color: #000c;
+    -webkit-filter: hue-rotate(200deg);
+}
+.badge4 {
+    display: inline;
+    margin: -2px;
+    padding: 0px;
+    width: 24px;
+    height: 24px;
+    position: relative;
+    top: -400px;
+    left: 755px;
+    color: #000c;
+    -webkit-filter: hue-rotate(200deg);
+}
+.badge5 {
+    display: inline;
+    margin: -2px;
+    padding: 0px;
+    width: 24px;
+    height: 24px;
+    position: relative;
+    top: -400px;
+    left: 755px;
+    color: #000c;
+    -webkit-filter: hue-rotate(200deg);
+}
+.badge6 {
+    display: inline;
+    margin: -2px;
+    padding: 0px;
+    width: 24px;
+    height: 24px;
+    position: relative;
+    top: -400px;
+    left: 755px;
+    color: #000c;
+    -webkit-filter: hue-rotate(200deg);
 }
 .box-footer {
     width: 1020px;
